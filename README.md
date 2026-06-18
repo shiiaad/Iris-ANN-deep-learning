@@ -7,12 +7,12 @@ This project develops an Artificial Neural Network (ANN) using TensorFlow and Ke
 
 The project uses the Iris dataset from Scikit-Learn.
 
-### Features
+## Features:
 ### Sepal Length (cm)
-Sepal Width (cm)
-Petal Length (cm)
-Petal Width (cm)
-Target Classes
+### Sepal Width (cm)
+### Petal Length (cm)
+### Petal Width (cm)
+## Target Classes:
 Setosa
 Versicolor
 Virginica
